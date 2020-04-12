@@ -1,0 +1,2 @@
+# Tranlate-Scores-into-Grades
+Write a program, which asks for a student score. Score is a number from 0-100. Translate the score into grade according to the next limits:   score >= 90 is "A"  score >= 80 is "B"  score >= 70 is "C"  score >= 60 is "D"  anything else is "F"  if the score is 100 print "Perfect score!”  Input: A positive integer number.  Output: The letter grade or "Perfect score!” for 100 points ;
